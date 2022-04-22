@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Camarillo</h1>
 <h3 align="center">A web development enthusiast</h3>
 
-- 🔭 I’m currently working on **a company as junior web developer**
+- 🔭 I’m currently working on **a company as web developer**
 
 - 👨‍💻 All of my projects are available at **https://github.com/MariiaCao**
 
