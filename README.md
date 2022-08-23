@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria Camarillo</h1>
 <h3 align="center">A web development enthusiast</h3>
 
-- 🔭 I’m currently working on **a company as web developer**
+- 🔭 I’m currently working on **a company as Junior Software Engineer**
 
 - 👨‍💻 All of my projects are available at **https://github.com/MariiaCao**
 
-- 🌱 I’m currently learning **NodeJs**
-
-- 📫 How to reach me **mariiacao@gmail.com**
+- 🌱 I’m currently learning **NodeJs** **Angular**
 
 - ⚡ Fun fact **dancing, reading and playing with my cat**
 
