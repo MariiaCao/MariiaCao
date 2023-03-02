@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/MariiaCao**
 
-- 🌱 I’m currently learning  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+- 🌱 I’m currently learning **Python** **React**
 
 - ⚡ Fun fact **dancing, reading and playing with my cat**
 
